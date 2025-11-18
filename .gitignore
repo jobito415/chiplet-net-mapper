@@ -1,0 +1,11 @@
+# Python venv
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# Outputs
+out/

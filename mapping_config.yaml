@@ -1,0 +1,21 @@
+dies:
+  - name: DIE0
+    prefix: d0_
+    file: data/DIE0_c4.csv
+
+  - name: DIE1
+    prefix: d1_
+    file: data/DIE1_c4.csv
+
+global_nets:
+  - VSS
+  - VSSH
+  - AGND
+  - VDD
+  - AVDD1
+  - AVDD2
+
+rules: []
+
+output:
+  dir: out
